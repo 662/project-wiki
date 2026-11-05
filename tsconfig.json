@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "jsx": "react-jsx",
+    "esModuleInterop": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "noEmit": true,
+    "types": ["node", "react"]
+  },
+  "include": ["skills/**/*.ts", "skills/**/*.tsx", "tests/**/*.ts", "tests/**/*.tsx", "tests/**/*.d.ts"]
+}

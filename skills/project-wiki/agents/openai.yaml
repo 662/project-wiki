@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目 Wiki"
+  short_description: "跨框架建立、整理与维护可信的项目知识，可选接入网页浏览"
+  default_prompt: "使用 $project-wiki 检查这个项目，按实际技术栈建立或整理 Wiki，并按需接入网页浏览。"
